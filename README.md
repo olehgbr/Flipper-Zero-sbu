@@ -3,7 +3,6 @@ Flipper  Zero sbu
 # Ukraine customs docs
 
 
-
 **CБУ вилучила на експертизу у мене мій Flipper  Zero та оформила на мене протокол вилучення , коли Я намагався його продати через olx доставку**
 
 ![image_2023-10-27_03-47-02](https://github.com/oleh-ltd/Flipper-Zero-sbu/assets/146317058/4c8280ad-97f4-4baa-8250-7c365e80ff88)
