@@ -171,7 +171,7 @@ EMAIL - ВАШ EMAIL
 
                                                               
 
-[image](https://github.com/oleh-ltd/Flipper-Zero-sbu/assets/146317058/d2ebd928-4bbe-4bc2-ab13-b084fed7452b)
+![image](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/8171a325-d9d2-42d9-a968-900f44beecfb)
 
 
 
