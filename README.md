@@ -18,7 +18,9 @@
          
 **В ході контррозвідувальної операції** працівниками CБУ було вилучено на експертизу мій Flipper Zero, щоб перевірити чи відноситься  мій пристрій до **СТЗ НОІ спеціальних технічних засобів  негласного отримання інформації**
 **та складено адмін. протокол,коли Я намагався мирно) продати Flipper через olx**
-![photo_2023-11-06_14-34-22](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/beaa5f67-f09e-4f1a-abba-b81b33bfb545)
+
+![image](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/d7a37b94-c692-4291-af4e-f801d7e47918)
+
          
 (https://user-images.githubusercontent.com/146317058/278919314-6f7ff564-3cba-4380-8efc-19b375951676.png)
 ![image](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/8650079a-786f-4197-9953-ae5d72cfa4f1)
