@@ -23,8 +23,7 @@
 
 ![image](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/d7a37b94-c692-4291-af4e-f801d7e47918)
 
-         
-(https://user-images.githubusercontent.com/146317058/278919314-6f7ff564-3cba-4380-8efc-19b375951676.png)
+
 ![image](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/8650079a-786f-4197-9953-ae5d72cfa4f1)
 
 
