@@ -1,4 +1,3 @@
-
 # Flipper  Zero  СБУ 
 
 **Сьогодні забрав свій Flipper🐬 Zero у СБУ**,
