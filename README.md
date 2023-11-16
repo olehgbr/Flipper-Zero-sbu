@@ -147,3 +147,4 @@ EMAIL - ВАШ EMAIL
  ![Скан_Висновок](https://github.com/oleh-ltd/Flipper-Zero-sbu/assets/146317058/59db3d91-c90a-4efb-8300-f849d3d9c1dd)
 
 ![photo_2023-11-06_14-34-22](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/beaa5f67-f09e-4f1a-abba-b81b33bfb545)
+      **Зустрічайте Happy Relicana**
