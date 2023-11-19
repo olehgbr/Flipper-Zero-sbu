@@ -149,7 +149,9 @@ EMAIL - ВАШ EMAIL
 🐬 🔗Посилання на банку🔗  https://send.monobank.ua/jar/9BbZhAQyE4
 
 ![image](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/8171a325-d9d2-42d9-a968-900f44beecfb)
- ![Скан_Висновок](https://github.com/oleh-ltd/Flipper-Zero-sbu/assets/146317058/59db3d91-c90a-4efb-8300-f849d3d9c1dd)
+
+![image_2023-11-19_08-23-44](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/4ba1447e-a1ba-41fe-8fb9-97f533c07f67)
+
 Сьогодні забрав свій Flipper🐬 Zero у СБУ,
 так як надав висновок ІСТЕ, що даний пристрій не відноситься до спеціальних технічних засобів Негласного отримання інформації
 ![photo_2023-11-06_14-34-22](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/beaa5f67-f09e-4f1a-abba-b81b33bfb545)                                                                     Зустрічайте Happy Relicana
