@@ -4,7 +4,7 @@
 так як надав **висновок ІСТЕ, що даний пристрій не відноситься до спеціальних технічних засобів Негласного отримання інформації**
 
 
-![photo_2023-11-06_14-34-22](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/beaa5f67-f09e-4f1a-abba-b81b33bfb545)
+![Happy_Relicana](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/1f94decf-80ed-434f-90d8-a3c86bfac8e3)
 
                                                          **Зустрічайте Happy Relicana**
 
@@ -61,16 +61,17 @@ https://ssu.gov.ua/naukovo-doslidnytskyi-instytut
 
 
 
-![image](https://github.com/oleh-ltd/Flipper-Zero-sbu/assets/146317058/86410090-1367-4e92-8a75-1333bc27422a)
 
 ###  Підготовчі документи       
 1. Скан копія паспорту вашого. Дуже бажанно мати всі сторінки в одному PDF 
 2. Заява на ім'я директора. ``Заява макет.docx``. Заповнюємо червоні вставки своїми даними
 3. Товаро супровідні документи (інвойс та товарна накладна).
 Всі необхідні документи додав в **папку assets**
-![image](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/643a588a-9356-4487-a93d-12ea10ceb9a3)
+![assets](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/acfc5ffd-4a73-489b-9a75-df98af6e585e)
 
 ![image_2023-09-21_15-51-42](https://github.com/oleh-ltd/Flipper-Zero-sbu/assets/146317058/f2370ae8-3149-407b-bed5-65c92444977a)
+
+![documents](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/db8f8ae3-da04-43b4-87a5-66b9aa07f065)
 
 
 
@@ -148,7 +149,7 @@ EMAIL - ВАШ EMAIL
 А головне не давати можливості діяти СБУ, як їм заманеться та без підставно вилучали Ваші Flipper Zero, лише для  того щоб показати перед своїми начальниками, що вони займаються контр розвідкою.
 А, а вже згодом вивчати Закони та Конституцію Україн, а потім вивчати нові протоколи.
 
- ![Скан_Висновок](https://github.com/oleh-ltd/Flipper-Zero-sbu/assets/146317058/59db3d91-c90a-4efb-8300-f849d3d9c1dd)
+![visnovok](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/ac4a3782-6ccf-4f9e-b9d6-b0e9d33e9351)
 
 
 **Якщо вам необідно  домога з документами для митного оформлення, а також з Висновоком ІСТЕ СБУ (Висновоком для проведення митного оформленням), технічний описом, товаросупровідними документами або ІНВОЙСОМ**
