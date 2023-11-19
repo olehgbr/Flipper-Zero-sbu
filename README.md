@@ -1,6 +1,6 @@
 
 # Flipper-Zero-sbu
-Flipper  Zero sbu
+
 # Ukraine customs docs
 
 При замовленні платформи для розробки Flipper Zero, моделі F.Z1 з закордону можуть виникнути склоднощі з таможеним оформленням даного товару, 
