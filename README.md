@@ -64,7 +64,6 @@
 
 <https://ssu.gov.ua/naukovo-doslidnytskyi-instytut>
 
-![image](https://github.com/oleh-ltd/Flipper-Zero-sbu/assets/146317058/86410090-1367-4e92-8a75-1333bc27422a)
 
 
 ###  Підготовчі документи 
