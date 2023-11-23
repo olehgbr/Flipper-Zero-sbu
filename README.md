@@ -165,8 +165,8 @@ EMAIL - ВАШ EMAIL
 
 
 Якщо у Вас все вийшло і ви бажаєте підтримати мене за допомогу в митному оформленні,прошу переходьте за посиланням
+![donation](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/d5e765f5-b827-41f3-9e3f-d0d97cbf9f77)
 
-    ![donation](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/69d1bfd2-1f9e-4270-bfaf-d070a152d653)
 
  🔗Посилання на банку🔗  [https://send.monobank.ua/jar/9BbZhAQyE4]
 
