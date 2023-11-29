@@ -50,19 +50,14 @@
    Але мені надіслали не відразу... **тільки після довгих перемовин, багатьох звернень на почту, та декількох візитів в сам інститут**                             
        
   ![ICTE](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/d93c7b5f-0715-45c4-ae8f-b445cfa1509e)
-         
-
-
-**Контакти:**
-Тел./факс: +38 (044) 408-45-88 +38 (044) 422-77-77
-
+       
 е-mail: icte@ssu.gov.ua
 https://ssu.gov.ua/naukovo-doslidnytskyi-instytut
 
 
 ![documents](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/4fdb9a57-17ba-4436-b7e0-20d9a85b6636)
 
-###  Підготовчі документи       
+
 1. Скан копія паспорту вашого. Дуже бажанно мати всі сторінки в одному PDF 
 2. Заява на ім'я директора. ``Заява макет.docx``
    ![image_2023-11-24_16-29-03](https://github.com/olehgbr/Flipper-Zero-sbu/assets/146317058/6a144e2b-2f39-4850-b7b3-409575149780)
